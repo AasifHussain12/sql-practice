@@ -1,7 +1,5 @@
 -- Create Table
 
-USE StudentDB;
-
 CREATE TABLE Students (
     StudentID SERIAL PRIMARY KEY,
     Name VARCHAR(100),
